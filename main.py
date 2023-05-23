@@ -1,4 +1,4 @@
-# python3
+# 13.grupa 221RDB014
 
 class Query:
     def __init__(self, query):
